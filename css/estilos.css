@@ -1,0 +1,20 @@
+.container.text-center.py-5 {
+    background-color: #ceb318;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.container.text-center.py-5 h1 {
+    color: #000000;
+}
+
+.container.text-center.py-5 p {
+    color: #555345;
+}
+
+.container.text-center.py-5 .btn {
+    margin-top: 10px;
+}
+.container.py-5 img {
+    max-height: 280px;
+}
